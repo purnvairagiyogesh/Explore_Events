@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "816197026691",
+    "project_id": "my-flutter-testing-app",
+    "storage_bucket": "my-flutter-testing-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816197026691:android:3b772f72c4bcb9565eecb6",
+        "android_client_info": {
+          "package_name": "com.example.event_seat_booking"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDzCC0vK09ljUkAmbcD1zKOgdz1IhTHxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
