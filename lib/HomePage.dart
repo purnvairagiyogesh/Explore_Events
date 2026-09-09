@@ -35,7 +35,7 @@ class _HomePageState extends State<HomePage> {
       "time": "7:00 PM",
       "price": "799",
       "venue": "Pramukh Swami Auditorium, Rajkot",
-      "image": "https://images.unsplash.com/photo-1459749411177-042180ce673f?q=80&w=2070&auto=format&fit=crop",
+      "image": "https://pixmob.com/assets/images/projects/electric-run-dubai-2016/electrin-run---dubai-concert.webp",
       "description": "Get ready for an unforgettable musical experience at Neon Nights Music Festival. Enjoy live performances, energetic beats, spectacular lighting, and an incredible atmosphere."
     },
     {
@@ -44,7 +44,7 @@ class _HomePageState extends State<HomePage> {
       "time": "6:30 PM",
       "price": "499",
       "venue": "Hemu Gadhavi Auditorium, Rajkot",
-      "image": "https://images.unsplash.com/photo-1514525253361-b83f859b73c0?q=80&w=1974&auto=format&fit=crop",
+      "image": "https://s3.eu-west-2.amazonaws.com/data.list.co.uk/ck_files/images/data-feed/e2786d4e-f888-11ed-96d8-c637bbd43f0a-LST757001-600x600.jpg",
       "description": "Take a break from your daily routine and spend an evening laughing out loud at Laugh Riot. Featuring talented stand-up comedians performing their best routines."
     },
     {
@@ -53,7 +53,7 @@ class _HomePageState extends State<HomePage> {
       "time": "5:00 PM",
       "price": "199",
       "venue": "Savani Hall, Rajkot",
-      "image": "https://images.unsplash.com/photo-1506157786151-b8491531f063?q=80&w=2070&auto=format&fit=crop",
+      "image": "https://www.wanderlustmagazine.com/wp-content/uploads/2023/11/gujarat-top-image-scaled.jpg",
       "description": "Experience the rich traditions and colorful heritage of Gujarat at the Gujarat Cultural Carnival. Enjoy traditional folk dances and live music."
     },
     {
@@ -62,7 +62,7 @@ class _HomePageState extends State<HomePage> {
       "time": "7:30 PM",
       "price": "999",
       "venue": "Shri Atal Bihari Vajpayee Auditorium, Rajkot",
-      "image": "https://images.unsplash.com/photo-1465847899034-d174fc2273f5?q=80&w=2070&auto=format&fit=crop",
+      "image": "https://www.gdynia.pl/dla-mediow/module/Files/controller/Default/action/previewFile/hash/5e4618959c07ace99dd5442cd7330a6d",
       "description": "Let the power of live music take you on an unforgettable journey. A talented orchestra will perform a collection of cinematic themes."
     },
     {
@@ -71,7 +71,7 @@ class _HomePageState extends State<HomePage> {
       "time": "10:00 AM",
       "price": "499",
       "venue": "Arvindbhai Maniar Hall, Rajkot",
-      "image": "https://images.unsplash.com/photo-1504384308090-c89e1227a05f?q=80&w=2070&auto=format&fit=crop",
+      "image": "https://ts-production.imgix.net/images/mobile-cover-uploaded/6e58338e-15dc-42df-94d2-977068130436.jpg?auto=compress%2Cformat&h=450&w=800",
       "description": "Discover the latest technology, innovative ideas, and exciting digital experiences. TechNext 2026 brings together technology enthusiasts."
     },
     {
@@ -80,7 +80,7 @@ class _HomePageState extends State<HomePage> {
       "time": "8:00 PM",
       "price": "999",
       "venue": "Phoenix Resort, Rajkot",
-      "image": "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?q=80&w=2070&auto=format&fit=crop",
+      "image": "https://files.value-press.com/czMjYXJ0aWNsZSM0NDU3MCMyMDM0MTEjNDQ1NzBfbUNWYUlIcExZay5qcGc.jpg",
       "description": "Dance the night away with energetic DJ performances, beats, and spectacular lights at Midnight Beats DJ Night."
     }
   ];
